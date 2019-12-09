@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="668d8ea4-ac33-415a-950c-28c4c54d07bf" name="Default Changelist" comment="" />
+    <list default="true" id="668d8ea4-ac33-415a-950c-28c4c54d07bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Broker_list_scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/Broker_list_scrape.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nepse Floorsheet Scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nepse Floorsheet Scrape.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Read_me.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Read_me.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/To adjust the date.py" beforeDir="false" afterPath="$PROJECT_DIR$/To adjust the date.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/To put a file in Mongo.py" beforeDir="false" afterPath="$PROJECT_DIR$/To put a file in Mongo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/broker_list.csv" beforeDir="false" afterPath="$PROJECT_DIR$/broker_list.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfloorsheet_csv/21st_Nov_2019.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dfloorsheet_csv/21st_Nov_2019.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfloorsheet_csv/21st_Oct_2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfloorsheet_csv/6th_Nov_2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/find_least_transaction_broker.py" beforeDir="false" afterPath="$PROJECT_DIR$/find_least_transaction_broker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/make_the_date_time_correct.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plottingTheData.py" beforeDir="false" afterPath="$PROJECT_DIR$/plottingTheData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retrieve_from_mongo.py" beforeDir="false" afterPath="$PROJECT_DIR$/retrieve_from_mongo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set_date_time_for_naming_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/set_date_time_for_naming_csv.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,16 +31,31 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/retrieve_from_mongo.py" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Dell\Anaconda3\Nepse_Scraping_till_retreiving_from_mongo\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1RaUhHtGBbY6vuGLcVBM2FFUh1Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -43,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.find_least_transaction_broker">
+  <component name="RunManager" selected="Python.plottingTheData">
     <configuration name="Broker_list_scrape" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Nepse_Scraping_till_retreiving_from_mongo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,50 +89,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Broker_list_scrape.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Grouping and visualisation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Nepse_Scraping_till_retreiving_from_mongo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Grouping and visualisation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Nepse Floorsheet Scrape" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Nepse_Scraping_till_retreiving_from_mongo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nepse Floorsheet Scrape.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,13 +163,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="plottingTheData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Nepse_Scraping_till_retreiving_from_mongo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plottingTheData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="retrieve_from_mongo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Nepse_Scraping_till_retreiving_from_mongo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/retrieve_from_mongo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.plottingTheData" />
         <item itemvalue="Python.find_least_transaction_broker" />
-        <item itemvalue="Python.To put a file in Mongo" />
-        <item itemvalue="Python.Nepse Floorsheet Scrape" />
-        <item itemvalue="Python.Grouping and visualisation" />
         <item itemvalue="Python.Broker_list_scrape" />
+        <item itemvalue="Python.retrieve_from_mongo" />
+        <item itemvalue="Python.To put a file in Mongo" />
       </list>
     </recent_temporary>
   </component>
@@ -207,10 +235,75 @@
       <workItem from="1570807363139" duration="7172000" />
       <workItem from="1570942608731" duration="413000" />
       <workItem from="1571027564730" duration="19158000" />
+      <workItem from="1571115574544" duration="4710000" />
+      <workItem from="1571642372294" duration="1273000" />
+      <workItem from="1571719872211" duration="11465000" />
+      <workItem from="1571810764750" duration="456000" />
+      <workItem from="1571813826522" duration="627000" />
+      <workItem from="1571822888237" duration="299000" />
+      <workItem from="1571823787954" duration="339000" />
+      <workItem from="1571844727838" duration="1718000" />
+      <workItem from="1571913768544" duration="596000" />
+      <workItem from="1571931924469" duration="649000" />
+      <workItem from="1571986134057" duration="7283000" />
+      <workItem from="1572454875551" duration="648000" />
+      <workItem from="1572514664066" duration="3018000" />
+      <workItem from="1572587948035" duration="1374000" />
+      <workItem from="1572799739419" duration="13000" />
+      <workItem from="1572802688568" duration="682000" />
+      <workItem from="1572839180640" duration="9007000" />
+      <workItem from="1572944050867" duration="2884000" />
+      <workItem from="1573007591902" duration="1457000" />
+      <workItem from="1573028079626" duration="58000" />
+      <workItem from="1573028165867" duration="4000" />
+      <workItem from="1573028206110" duration="223000" />
+      <workItem from="1573179337532" duration="666000" />
+      <workItem from="1573206526953" duration="154000" />
+      <workItem from="1573211197609" duration="299000" />
+      <workItem from="1573211668713" duration="15000" />
+      <workItem from="1573996841762" duration="604000" />
+      <workItem from="1574064403411" duration="7229000" />
+      <workItem from="1574137414683" duration="8713000" />
+      <workItem from="1574146741178" duration="223000" />
+      <workItem from="1574153597319" duration="4970000" />
+      <workItem from="1574215487680" duration="203000" />
+      <workItem from="1574216156725" duration="51000" />
+      <workItem from="1574311761225" duration="602000" />
+      <workItem from="1574312434850" duration="1209000" />
+      <workItem from="1574326795618" duration="5426000" />
+      <workItem from="1574658566616" duration="3720000" />
+      <workItem from="1574740417944" duration="10618000" />
+      <workItem from="1574850451356" duration="430000" />
+      <workItem from="1574850977582" duration="27000" />
+      <workItem from="1574851029314" duration="6596000" />
+      <workItem from="1574928591756" duration="45000" />
+      <workItem from="1575443021942" duration="203000" />
+      <workItem from="1575443258563" duration="996000" />
+      <workItem from="1575699172378" duration="90000" />
+      <workItem from="1575699476004" duration="2357000" />
+      <workItem from="1575703852448" duration="20000" />
+      <workItem from="1575793012548" duration="8000" />
+      <workItem from="1575879849730" duration="2541000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

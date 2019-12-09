@@ -11,7 +11,8 @@ def custom_strftime(format, t):
 def first_part():
     return (list(custom_strftime('%B {S}, %Y', dt.now()).split(' '))[1].split(',')[0])
 def second_part():
-    return dt.today().strftime('%B')
+    return (dt.today().strftime('%B'))[0:3]
 def third_part():
     return dt.today().year
 the_name = '{}_{}_{}'.format(first_part(),second_part(),third_part())
+

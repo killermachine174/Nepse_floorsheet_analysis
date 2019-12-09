@@ -4,6 +4,7 @@ import pandas as pd
 from bs4 import BeautifulSoup as BS
 from datetime import datetime
 import fake_useragent as orange
+from set_date_time_for_naming_csv import the_name as tname
 def page_number_getter():
     UURL = 'http://www.nepalstock.com/main/floorsheet/index/0/'
     first_requesting= requests.get(UURL, headers=orange.random_headers())
@@ -16,6 +17,7 @@ def page_number_getter():
     splitted_href = this_href.split('/')
     wanted_href = splitted_href[-2]
     return(int(wanted_href)+1)
+
 
 all_rows = []
 for page in range(1,page_number_getter()): #put the page number till which you want to scrape
@@ -49,7 +51,7 @@ nepse_floorsheet.set_index('S.N', inplace=True)
 for items in nepse_floorsheet:
     nepse_floorsheet['Date'] = datetime.now()
 nepse_floorsheet1=nepse_floorsheet[0:-3]
-nepse_floorsheet1.to_csv('dfloorsheet_csv/14th_Oct_2019.csv') #place the name of the csv file you want
+nepse_floorsheet1.to_csv('dfloorsheet_csv/{}.csv'.format(tname)) #place the name of the csv file you want
 
 
 
