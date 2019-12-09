@@ -3,20 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="668d8ea4-ac33-415a-950c-28c4c54d07bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Broker_list_scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/Broker_list_scrape.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nepse Floorsheet Scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nepse Floorsheet Scrape.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Read_me.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Read_me.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/To adjust the date.py" beforeDir="false" afterPath="$PROJECT_DIR$/To adjust the date.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/To put a file in Mongo.py" beforeDir="false" afterPath="$PROJECT_DIR$/To put a file in Mongo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/broker_list.csv" beforeDir="false" afterPath="$PROJECT_DIR$/broker_list.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dfloorsheet_csv/21st_Nov_2019.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dfloorsheet_csv/21st_Nov_2019.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dfloorsheet_csv/21st_Oct_2019.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dfloorsheet_csv/6th_Nov_2019.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/find_least_transaction_broker.py" beforeDir="false" afterPath="$PROJECT_DIR$/find_least_transaction_broker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/make_the_date_time_correct.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plottingTheData.py" beforeDir="false" afterPath="$PROJECT_DIR$/plottingTheData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retrieve_from_mongo.py" beforeDir="false" afterPath="$PROJECT_DIR$/retrieve_from_mongo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/set_date_time_for_naming_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/set_date_time_for_naming_csv.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -283,7 +269,7 @@
       <workItem from="1575699476004" duration="2357000" />
       <workItem from="1575703852448" duration="20000" />
       <workItem from="1575793012548" duration="8000" />
-      <workItem from="1575879849730" duration="2541000" />
+      <workItem from="1575879849730" duration="3091000" />
     </task>
     <servers />
   </component>
